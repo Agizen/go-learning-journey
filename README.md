@@ -58,7 +58,7 @@ go run main.go
 
 ## 👤 Author
 
-**Agid (Zardosht) Khezri** — learning Go, one commit at a time.
+**Agid (Zardasht) Khezri** — learning Go, one commit at a time.
 
 <div align="center">
 
