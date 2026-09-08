@@ -37,6 +37,8 @@ This repository documents my progress learning **Go (Golang)** from scratch. Eve
 | 02 | [Sum of Numbers](./02-sum-of-numbers) | Calculates the sum of numbers from 1 to N | Loops, Accumulator pattern |
 | 03 | [Biggest Number](./03-biggest-number) | Finds the largest of three user-provided numbers | Conditionals, Comparison logic |
 | 04 | [Multiplication Table](./04-multiplication-table) | Prints the multiplication table for a given number | Loops, Formatted output |
+| 05 | [Is the number even](./05-Is-Even) | check the number if it's even or not | Loops, Formatted output |
+| 06 | [Is the number prime](./06-Is-Prime) | check the given number for being prime | Loops, Formatted output |
 
 > More projects are added as I progress through new topics 🌱
 
