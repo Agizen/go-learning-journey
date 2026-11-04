@@ -39,6 +39,7 @@ This repository documents my progress learning **Go (Golang)** from scratch. Eve
 | 04 | [Multiplication Table](./04-multiplication-table) | Prints the multiplication table for a given number | Loops, Formatted output |
 | 05 | [Is the number even](./05-Is-Even) | check the number if it's even or not | Loops, Formatted output |
 | 06 | [Is the number prime](./06-Is-Prime) | check the given number for being prime | Loops, Formatted output |
+| 07 | [Terminal Calculator](./07-Termianl-Calculator) | Calculating The Given numbers | Loop, Formatted output, switch, operators |
 
 > More projects are added as I progress through new topics 🌱
 
