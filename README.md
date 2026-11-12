@@ -40,7 +40,7 @@ This repository documents my progress learning **Go (Golang)** from scratch. Eve
 | 05 | [Is the number even](./05-Is-Even) | check the number if it's even or not | Loops, Formatted output |
 | 06 | [Is the number prime](./06-Is-Prime) | check the given number for being prime | Loops, Formatted output |
 | 07 | [Terminal Calculator](./07-Terminal-Calculator) | Calculating The Given numbers | Loop, Formatted output, switch, operators|
-| 07 | [Terminal Calculator](./8-Circumference-Of-Circle) | Calculating The given radius and environment of a circle | Loop, Formatted output, switch, operators|
+| 08 | [Circumference-Of-Circle](./8-Circumference-Of-Circle) | Calculating The given radius and environment of a circle | Loop, Formatted output, switch, operators|
 
 > More projects are added as I progress through new topics 🌱
 
