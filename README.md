@@ -41,7 +41,7 @@ This repository documents my progress learning **Go (Golang)** from scratch. Eve
 | 06 | [Is the number prime](./06-Is-Prime) | check the given number for being prime | Loops, Formatted output |
 | 07 | [Terminal Calculator](./07-Terminal-Calculator) | Calculating The Given numbers | Loop, Formatted output, switch, operators|
 | 08 | [Circumference-Of-Circle](./8-Circumference-Of-Circle) | Calculating The given radius and environment of a circle | Loop, Formatted output, switch, operators|
-
+| 09 | [Pythagoras-Calculator](./9-Pythagoras-Calculator) | A simple command-line Pythagorean theorem calculator written in Go. | Calculate the hypotenuse of a right triangle.
 > More projects are added as I progress through new topics 🌱
 
 ## 🛠️ How to Run
